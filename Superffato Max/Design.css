@@ -1,0 +1,105 @@
+body {
+	background-color: #227FFF;
+	margin: 0;
+}
+
+header {
+	position: sticky;
+	background-color: blue;
+	margin: 0;
+	color: #FFD30D;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.logo {
+	display: inline;
+	margin-left: 20px;
+	font-size: 40px;
+}
+
+.dropdown{
+	display: inline;
+}
+
+.dropbtn{
+	background-color: #ffde4c;
+	color: blue;;
+	position: absolute;
+	left: 450px;
+	top: 17px;
+	font-size: large;
+	padding-top: 4px;
+	padding-bottom: 6px;
+	margin: 0px;
+}
+
+.dropbtn:hover {
+	background-color: #facc00;
+}
+
+.dropdown-content {
+	background-color: white;
+	column-count: 2;
+	display: none;
+	position: absolute;
+	left: 452px;
+	top: 52px;
+}
+
+.dropdown-content a{
+	display: block;
+	font-size: large;
+	padding-bottom: 10px;
+	text-decoration: none;
+}
+
+.dropdown:hover .dropdown-content{
+	display: block;
+}
+
+.dropdown-content a:hover{
+	background-color: lightgray;
+}
+
+.pesquisa{
+	position: absolute;
+	left: 595px;
+	top: 17px;
+	width: 550px;
+	height: 35px;
+}
+
+#lupa{
+	position: absolute;
+	right: 360px;
+	top: 35px;
+}
+
+#Cadastrar-se {
+	background-color: #ffde4c;
+	color: blue;;
+	font-size: medium;
+	position: absolute;
+	right: 90px;
+	top: 13px;
+	padding: 10px;
+}
+
+#Cadastrar-se:hover{
+	background-color: #facc00;
+}
+
+#Entrar {
+	background-color: #ffde4c;
+	color: blue;;
+	font-size: medium;
+	position: absolute;
+	right: 10px;
+	top: 13px;
+	padding: 10px;
+}
+
+#Entrar:hover {
+	background-color: #facc00;
+}
