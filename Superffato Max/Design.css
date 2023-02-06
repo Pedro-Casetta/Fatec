@@ -1,0 +1,117 @@
+body {
+	background-color: #227FFF;
+	margin: 0;
+}
+
+header {
+	position: sticky;
+	background-color: blue;
+	margin: 0;
+	color: #FFD30D;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.logo {
+	display: inline;
+	margin-left: 20px;
+	font-size: 40px;
+}
+
+.dropdown{
+	display: inline;
+}
+
+.dropbtn{
+	background-color: #ffde4c;
+	color: blue;;
+	position: absolute;
+	left: 450px;
+	top: 17px;
+	font-size: large;
+	padding-top: 5px;
+	padding-bottom: 7px;
+	margin: 0px;
+}
+
+.dropbtn:hover {
+	background-color: #facc00;
+}
+
+.dropdown-content {
+	background-color: white;
+	column-count: 2;
+	display: none;
+	position: absolute;
+	left: 452px;
+	top: 52px;
+}
+
+.dropdown-content a{
+	display: block;
+	font-size: large;
+	padding-bottom: 10px;
+	text-decoration: none;
+}
+
+.dropdown:hover .dropdown-content{
+	display: block;
+}
+
+.dropdown-content a:hover{
+	background-color: lightgray;
+}
+
+.pesquisa{
+	position: absolute;
+	left: 595px;
+	top: 17px;
+	width: 550px;
+	height: 35px;
+}
+
+#lupa{
+	color: #ffde4c;
+	position: absolute;
+	right: 360px;
+	top: 35px;
+}
+
+#carrinho{
+	color: #ffde4c;
+	position: absolute;
+	right: 220px;
+	top: 35px;
+}
+
+#Cadastrar-se {
+	background-color: #ffde4c;
+	border: black 2px solid;
+	color: blue;;
+	font-size: large;
+	position: absolute;
+	right: 90px;
+	text-decoration: none;
+	top: 13px;
+	padding: 10px;
+}
+
+#Cadastrar-se:hover{
+	background-color: #facc00;
+}
+
+#Entrar {
+	background-color: #ffde4c;
+	border: black 2px solid;
+	color: blue;;
+	font-size: large;
+	position: absolute;
+	right: 10px;
+	text-decoration: none;
+	top: 13px;
+	padding: 10px;
+}
+
+#Entrar:hover {
+	background-color: #facc00;
+}
