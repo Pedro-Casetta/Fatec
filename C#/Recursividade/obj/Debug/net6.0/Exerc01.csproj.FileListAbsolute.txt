@@ -1,0 +1,23 @@
+C:\Users\Aluno\Documents\Marcelo\IED001N\Exerc01\bin\Debug\net6.0\Exerc01.exe
+C:\Users\Aluno\Documents\Marcelo\IED001N\Exerc01\bin\Debug\net6.0\Exerc01.deps.json
+C:\Users\Aluno\Documents\Marcelo\IED001N\Exerc01\bin\Debug\net6.0\Exerc01.runtimeconfig.json
+C:\Users\Aluno\Documents\Marcelo\IED001N\Exerc01\bin\Debug\net6.0\Exerc01.dll
+C:\Users\Aluno\Documents\Marcelo\IED001N\Exerc01\bin\Debug\net6.0\Exerc01.pdb
+C:\Users\Aluno\Documents\Marcelo\IED001N\Exerc01\obj\Debug\net6.0\Exerc01.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Marcelo\IED001N\Exerc01\obj\Debug\net6.0\Exerc01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Marcelo\IED001N\Exerc01\obj\Debug\net6.0\Exerc01.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Marcelo\IED001N\Exerc01\obj\Debug\net6.0\Exerc01.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Marcelo\IED001N\Exerc01\obj\Debug\net6.0\Exerc01.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Marcelo\IED001N\Exerc01\obj\Debug\net6.0\Exerc01.dll
+C:\Users\Aluno\Documents\Marcelo\IED001N\Exerc01\obj\Debug\net6.0\refint\Exerc01.dll
+C:\Users\Aluno\Documents\Marcelo\IED001N\Exerc01\obj\Debug\net6.0\Exerc01.pdb
+C:\Users\Aluno\Documents\Marcelo\IED001N\Exerc01\obj\Debug\net6.0\Exerc01.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Marcelo\IED001N\Exerc01\obj\Debug\net6.0\ref\Exerc01.dll
+F:\Estrutura de Dados\obj\Debug\net6.0\Exerc01.csproj.AssemblyReference.cache
+F:\Estrutura de Dados\obj\Debug\net6.0\Exerc01.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estrutura de Dados\obj\Debug\net6.0\Exerc01.AssemblyInfoInputs.cache
+F:\Estrutura de Dados\obj\Debug\net6.0\Exerc01.AssemblyInfo.cs
+F:\Estrutura de Dados\obj\Debug\net6.0\Exerc01.csproj.CoreCompileInputs.cache
+F:\Estrutura de Dados\obj\Debug\net6.0\Exerc01.dll
+F:\Estrutura de Dados\obj\Debug\net6.0\refint\Exerc01.dll
+F:\Estrutura de Dados\obj\Debug\net6.0\Exerc01.pdb

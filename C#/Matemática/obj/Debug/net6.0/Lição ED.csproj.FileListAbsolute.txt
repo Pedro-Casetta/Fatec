@@ -1,0 +1,30 @@
+F:\Lição ED\bin\Debug\net6.0\Lição ED.exe
+F:\Lição ED\bin\Debug\net6.0\Lição ED.deps.json
+F:\Lição ED\bin\Debug\net6.0\Lição ED.runtimeconfig.json
+F:\Lição ED\bin\Debug\net6.0\Lição ED.dll
+F:\Lição ED\bin\Debug\net6.0\Lição ED.pdb
+F:\Lição ED\obj\Debug\net6.0\Lição ED.csproj.AssemblyReference.cache
+F:\Lição ED\obj\Debug\net6.0\Lição ED.GeneratedMSBuildEditorConfig.editorconfig
+F:\Lição ED\obj\Debug\net6.0\Lição ED.AssemblyInfoInputs.cache
+F:\Lição ED\obj\Debug\net6.0\Lição ED.AssemblyInfo.cs
+F:\Lição ED\obj\Debug\net6.0\Lição ED.csproj.CoreCompileInputs.cache
+F:\Lição ED\obj\Debug\net6.0\Lição ED.dll
+F:\Lição ED\obj\Debug\net6.0\refint\Lição ED.dll
+F:\Lição ED\obj\Debug\net6.0\Lição ED.pdb
+F:\Lição ED\obj\Debug\net6.0\Lição ED.genruntimeconfig.cache
+F:\Lição ED\obj\Debug\net6.0\ref\Lição ED.dll
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 2 ao 6\bin\Debug\net6.0\Lição ED.exe
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 2 ao 6\bin\Debug\net6.0\Lição ED.deps.json
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 2 ao 6\bin\Debug\net6.0\Lição ED.runtimeconfig.json
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 2 ao 6\bin\Debug\net6.0\Lição ED.dll
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 2 ao 6\bin\Debug\net6.0\Lição ED.pdb
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 2 ao 6\obj\Debug\net6.0\Lição ED.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 2 ao 6\obj\Debug\net6.0\Lição ED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 2 ao 6\obj\Debug\net6.0\Lição ED.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 2 ao 6\obj\Debug\net6.0\Lição ED.AssemblyInfo.cs
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 2 ao 6\obj\Debug\net6.0\Lição ED.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 2 ao 6\obj\Debug\net6.0\Lição ED.dll
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 2 ao 6\obj\Debug\net6.0\refint\Lição ED.dll
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 2 ao 6\obj\Debug\net6.0\Lição ED.pdb
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 2 ao 6\obj\Debug\net6.0\Lição ED.genruntimeconfig.cache
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 2 ao 6\obj\Debug\net6.0\ref\Lição ED.dll

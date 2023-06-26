@@ -1,0 +1,30 @@
+F:\Atividades Fatec\Exercício 28\obj\Debug\net6.0\Exercício 28.csproj.AssemblyReference.cache
+F:\Atividades Fatec\Exercício 28\obj\Debug\net6.0\Exercício 28.GeneratedMSBuildEditorConfig.editorconfig
+F:\Atividades Fatec\Exercício 28\obj\Debug\net6.0\Exercício 28.AssemblyInfoInputs.cache
+F:\Atividades Fatec\Exercício 28\obj\Debug\net6.0\Exercício 28.AssemblyInfo.cs
+F:\Atividades Fatec\Exercício 28\obj\Debug\net6.0\Exercício 28.csproj.CoreCompileInputs.cache
+F:\Atividades Fatec\Exercício 28\bin\Debug\net6.0\Exercício 28.exe
+F:\Atividades Fatec\Exercício 28\bin\Debug\net6.0\Exercício 28.deps.json
+F:\Atividades Fatec\Exercício 28\bin\Debug\net6.0\Exercício 28.runtimeconfig.json
+F:\Atividades Fatec\Exercício 28\bin\Debug\net6.0\Exercício 28.dll
+F:\Atividades Fatec\Exercício 28\bin\Debug\net6.0\Exercício 28.pdb
+F:\Atividades Fatec\Exercício 28\obj\Debug\net6.0\Exercício 28.dll
+F:\Atividades Fatec\Exercício 28\obj\Debug\net6.0\refint\Exercício 28.dll
+F:\Atividades Fatec\Exercício 28\obj\Debug\net6.0\Exercício 28.pdb
+F:\Atividades Fatec\Exercício 28\obj\Debug\net6.0\Exercício 28.genruntimeconfig.cache
+F:\Atividades Fatec\Exercício 28\obj\Debug\net6.0\ref\Exercício 28.dll
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\CrudHashEncadeada\bin\Debug\net6.0\Exercício 28.exe
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\CrudHashEncadeada\bin\Debug\net6.0\Exercício 28.deps.json
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\CrudHashEncadeada\bin\Debug\net6.0\Exercício 28.runtimeconfig.json
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\CrudHashEncadeada\bin\Debug\net6.0\Exercício 28.dll
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\CrudHashEncadeada\bin\Debug\net6.0\Exercício 28.pdb
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\CrudHashEncadeada\obj\Debug\net6.0\Exercício 28.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\CrudHashEncadeada\obj\Debug\net6.0\Exercício 28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\CrudHashEncadeada\obj\Debug\net6.0\Exercício 28.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\CrudHashEncadeada\obj\Debug\net6.0\Exercício 28.AssemblyInfo.cs
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\CrudHashEncadeada\obj\Debug\net6.0\Exercício 28.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\CrudHashEncadeada\obj\Debug\net6.0\Exercício 28.dll
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\CrudHashEncadeada\obj\Debug\net6.0\refint\Exercício 28.dll
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\CrudHashEncadeada\obj\Debug\net6.0\Exercício 28.pdb
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\CrudHashEncadeada\obj\Debug\net6.0\Exercício 28.genruntimeconfig.cache
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\CrudHashEncadeada\obj\Debug\net6.0\ref\Exercício 28.dll

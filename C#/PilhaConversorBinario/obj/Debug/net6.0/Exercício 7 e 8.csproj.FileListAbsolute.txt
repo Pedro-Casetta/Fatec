@@ -1,0 +1,45 @@
+D:\Exercício 7 e 8\bin\Debug\net6.0\Exercício 7 e 8.exe
+D:\Exercício 7 e 8\bin\Debug\net6.0\Exercício 7 e 8.deps.json
+D:\Exercício 7 e 8\bin\Debug\net6.0\Exercício 7 e 8.runtimeconfig.json
+D:\Exercício 7 e 8\bin\Debug\net6.0\Exercício 7 e 8.dll
+D:\Exercício 7 e 8\bin\Debug\net6.0\Exercício 7 e 8.pdb
+D:\Exercício 7 e 8\obj\Debug\net6.0\Exercício 7 e 8.csproj.AssemblyReference.cache
+D:\Exercício 7 e 8\obj\Debug\net6.0\Exercício 7 e 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exercício 7 e 8\obj\Debug\net6.0\Exercício 7 e 8.AssemblyInfoInputs.cache
+D:\Exercício 7 e 8\obj\Debug\net6.0\Exercício 7 e 8.AssemblyInfo.cs
+D:\Exercício 7 e 8\obj\Debug\net6.0\Exercício 7 e 8.csproj.CoreCompileInputs.cache
+D:\Exercício 7 e 8\obj\Debug\net6.0\Exercício 7 e 8.dll
+D:\Exercício 7 e 8\obj\Debug\net6.0\refint\Exercício 7 e 8.dll
+D:\Exercício 7 e 8\obj\Debug\net6.0\Exercício 7 e 8.pdb
+D:\Exercício 7 e 8\obj\Debug\net6.0\Exercício 7 e 8.genruntimeconfig.cache
+D:\Exercício 7 e 8\obj\Debug\net6.0\ref\Exercício 7 e 8.dll
+F:\Atividades Fatec\Exercício 7 e 8\bin\Debug\net6.0\Exercício 7 e 8.exe
+F:\Atividades Fatec\Exercício 7 e 8\bin\Debug\net6.0\Exercício 7 e 8.deps.json
+F:\Atividades Fatec\Exercício 7 e 8\bin\Debug\net6.0\Exercício 7 e 8.runtimeconfig.json
+F:\Atividades Fatec\Exercício 7 e 8\bin\Debug\net6.0\Exercício 7 e 8.dll
+F:\Atividades Fatec\Exercício 7 e 8\bin\Debug\net6.0\Exercício 7 e 8.pdb
+F:\Atividades Fatec\Exercício 7 e 8\obj\Debug\net6.0\Exercício 7 e 8.csproj.AssemblyReference.cache
+F:\Atividades Fatec\Exercício 7 e 8\obj\Debug\net6.0\Exercício 7 e 8.GeneratedMSBuildEditorConfig.editorconfig
+F:\Atividades Fatec\Exercício 7 e 8\obj\Debug\net6.0\Exercício 7 e 8.AssemblyInfoInputs.cache
+F:\Atividades Fatec\Exercício 7 e 8\obj\Debug\net6.0\Exercício 7 e 8.AssemblyInfo.cs
+F:\Atividades Fatec\Exercício 7 e 8\obj\Debug\net6.0\Exercício 7 e 8.csproj.CoreCompileInputs.cache
+F:\Atividades Fatec\Exercício 7 e 8\obj\Debug\net6.0\Exercício 7 e 8.dll
+F:\Atividades Fatec\Exercício 7 e 8\obj\Debug\net6.0\refint\Exercício 7 e 8.dll
+F:\Atividades Fatec\Exercício 7 e 8\obj\Debug\net6.0\Exercício 7 e 8.pdb
+F:\Atividades Fatec\Exercício 7 e 8\obj\Debug\net6.0\Exercício 7 e 8.genruntimeconfig.cache
+F:\Atividades Fatec\Exercício 7 e 8\obj\Debug\net6.0\ref\Exercício 7 e 8.dll
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 7 e 8\bin\Debug\net6.0\Exercício 7 e 8.exe
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 7 e 8\bin\Debug\net6.0\Exercício 7 e 8.deps.json
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 7 e 8\bin\Debug\net6.0\Exercício 7 e 8.runtimeconfig.json
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 7 e 8\bin\Debug\net6.0\Exercício 7 e 8.dll
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 7 e 8\bin\Debug\net6.0\Exercício 7 e 8.pdb
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 7 e 8\obj\Debug\net6.0\Exercício 7 e 8.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 7 e 8\obj\Debug\net6.0\Exercício 7 e 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 7 e 8\obj\Debug\net6.0\Exercício 7 e 8.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 7 e 8\obj\Debug\net6.0\Exercício 7 e 8.AssemblyInfo.cs
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 7 e 8\obj\Debug\net6.0\Exercício 7 e 8.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 7 e 8\obj\Debug\net6.0\Exercício 7 e 8.dll
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 7 e 8\obj\Debug\net6.0\refint\Exercício 7 e 8.dll
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 7 e 8\obj\Debug\net6.0\Exercício 7 e 8.pdb
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 7 e 8\obj\Debug\net6.0\Exercício 7 e 8.genruntimeconfig.cache
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 7 e 8\obj\Debug\net6.0\ref\Exercício 7 e 8.dll

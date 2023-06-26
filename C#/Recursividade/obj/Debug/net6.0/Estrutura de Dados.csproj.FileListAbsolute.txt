@@ -1,0 +1,45 @@
+F:\Estrutura de Dados\obj\Debug\net6.0\Estrutura de Dados.csproj.AssemblyReference.cache
+F:\Estrutura de Dados\obj\Debug\net6.0\Estrutura de Dados.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estrutura de Dados\obj\Debug\net6.0\Estrutura de Dados.AssemblyInfoInputs.cache
+F:\Estrutura de Dados\obj\Debug\net6.0\Estrutura de Dados.AssemblyInfo.cs
+F:\Estrutura de Dados\obj\Debug\net6.0\Estrutura de Dados.csproj.CoreCompileInputs.cache
+F:\Estrutura de Dados\bin\Debug\net6.0\Estrutura de Dados.exe
+F:\Estrutura de Dados\bin\Debug\net6.0\Estrutura de Dados.deps.json
+F:\Estrutura de Dados\bin\Debug\net6.0\Estrutura de Dados.runtimeconfig.json
+F:\Estrutura de Dados\bin\Debug\net6.0\Estrutura de Dados.dll
+F:\Estrutura de Dados\bin\Debug\net6.0\Estrutura de Dados.pdb
+F:\Estrutura de Dados\obj\Debug\net6.0\Estrutura de Dados.dll
+F:\Estrutura de Dados\obj\Debug\net6.0\refint\Estrutura de Dados.dll
+F:\Estrutura de Dados\obj\Debug\net6.0\Estrutura de Dados.pdb
+F:\Estrutura de Dados\obj\Debug\net6.0\Estrutura de Dados.genruntimeconfig.cache
+F:\Estrutura de Dados\obj\Debug\net6.0\ref\Estrutura de Dados.dll
+D:\Estrutura de Dados\bin\Debug\net6.0\Estrutura de Dados.exe
+D:\Estrutura de Dados\bin\Debug\net6.0\Estrutura de Dados.deps.json
+D:\Estrutura de Dados\bin\Debug\net6.0\Estrutura de Dados.runtimeconfig.json
+D:\Estrutura de Dados\bin\Debug\net6.0\Estrutura de Dados.dll
+D:\Estrutura de Dados\bin\Debug\net6.0\Estrutura de Dados.pdb
+D:\Estrutura de Dados\obj\Debug\net6.0\Estrutura de Dados.csproj.AssemblyReference.cache
+D:\Estrutura de Dados\obj\Debug\net6.0\Estrutura de Dados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estrutura de Dados\obj\Debug\net6.0\Estrutura de Dados.AssemblyInfoInputs.cache
+D:\Estrutura de Dados\obj\Debug\net6.0\Estrutura de Dados.AssemblyInfo.cs
+D:\Estrutura de Dados\obj\Debug\net6.0\Estrutura de Dados.csproj.CoreCompileInputs.cache
+D:\Estrutura de Dados\obj\Debug\net6.0\Estrutura de Dados.dll
+D:\Estrutura de Dados\obj\Debug\net6.0\refint\Estrutura de Dados.dll
+D:\Estrutura de Dados\obj\Debug\net6.0\Estrutura de Dados.pdb
+D:\Estrutura de Dados\obj\Debug\net6.0\Estrutura de Dados.genruntimeconfig.cache
+D:\Estrutura de Dados\obj\Debug\net6.0\ref\Estrutura de Dados.dll
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Recursividade,vetor\bin\Debug\net6.0\Estrutura de Dados.exe
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Recursividade,vetor\bin\Debug\net6.0\Estrutura de Dados.deps.json
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Recursividade,vetor\bin\Debug\net6.0\Estrutura de Dados.runtimeconfig.json
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Recursividade,vetor\bin\Debug\net6.0\Estrutura de Dados.dll
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Recursividade,vetor\bin\Debug\net6.0\Estrutura de Dados.pdb
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Recursividade,vetor\obj\Debug\net6.0\Estrutura de Dados.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Recursividade,vetor\obj\Debug\net6.0\Estrutura de Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Recursividade,vetor\obj\Debug\net6.0\Estrutura de Dados.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Recursividade,vetor\obj\Debug\net6.0\Estrutura de Dados.AssemblyInfo.cs
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Recursividade,vetor\obj\Debug\net6.0\Estrutura de Dados.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Recursividade,vetor\obj\Debug\net6.0\Estrutura de Dados.dll
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Recursividade,vetor\obj\Debug\net6.0\refint\Estrutura de Dados.dll
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Recursividade,vetor\obj\Debug\net6.0\Estrutura de Dados.pdb
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Recursividade,vetor\obj\Debug\net6.0\Estrutura de Dados.genruntimeconfig.cache
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Recursividade,vetor\obj\Debug\net6.0\ref\Estrutura de Dados.dll

@@ -1,0 +1,45 @@
+D:\Atividades Fatec\Exercício 18\obj\Debug\net6.0\Exercício 18.csproj.AssemblyReference.cache
+D:\Atividades Fatec\Exercício 18\obj\Debug\net6.0\Exercício 18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atividades Fatec\Exercício 18\obj\Debug\net6.0\Exercício 18.AssemblyInfoInputs.cache
+D:\Atividades Fatec\Exercício 18\obj\Debug\net6.0\Exercício 18.AssemblyInfo.cs
+D:\Atividades Fatec\Exercício 18\obj\Debug\net6.0\Exercício 18.csproj.CoreCompileInputs.cache
+D:\Atividades Fatec\Exercício 18\bin\Debug\net6.0\Exercício 18.exe
+D:\Atividades Fatec\Exercício 18\bin\Debug\net6.0\Exercício 18.deps.json
+D:\Atividades Fatec\Exercício 18\bin\Debug\net6.0\Exercício 18.runtimeconfig.json
+D:\Atividades Fatec\Exercício 18\bin\Debug\net6.0\Exercício 18.dll
+D:\Atividades Fatec\Exercício 18\bin\Debug\net6.0\Exercício 18.pdb
+D:\Atividades Fatec\Exercício 18\obj\Debug\net6.0\Exercício 18.dll
+D:\Atividades Fatec\Exercício 18\obj\Debug\net6.0\refint\Exercício 18.dll
+D:\Atividades Fatec\Exercício 18\obj\Debug\net6.0\Exercício 18.pdb
+D:\Atividades Fatec\Exercício 18\obj\Debug\net6.0\Exercício 18.genruntimeconfig.cache
+D:\Atividades Fatec\Exercício 18\obj\Debug\net6.0\ref\Exercício 18.dll
+F:\Atividades Fatec\Exercício 18\bin\Debug\net6.0\Exercício 18.exe
+F:\Atividades Fatec\Exercício 18\bin\Debug\net6.0\Exercício 18.deps.json
+F:\Atividades Fatec\Exercício 18\bin\Debug\net6.0\Exercício 18.runtimeconfig.json
+F:\Atividades Fatec\Exercício 18\bin\Debug\net6.0\Exercício 18.dll
+F:\Atividades Fatec\Exercício 18\bin\Debug\net6.0\Exercício 18.pdb
+F:\Atividades Fatec\Exercício 18\obj\Debug\net6.0\Exercício 18.csproj.AssemblyReference.cache
+F:\Atividades Fatec\Exercício 18\obj\Debug\net6.0\Exercício 18.GeneratedMSBuildEditorConfig.editorconfig
+F:\Atividades Fatec\Exercício 18\obj\Debug\net6.0\Exercício 18.AssemblyInfoInputs.cache
+F:\Atividades Fatec\Exercício 18\obj\Debug\net6.0\Exercício 18.AssemblyInfo.cs
+F:\Atividades Fatec\Exercício 18\obj\Debug\net6.0\Exercício 18.csproj.CoreCompileInputs.cache
+F:\Atividades Fatec\Exercício 18\obj\Debug\net6.0\Exercício 18.dll
+F:\Atividades Fatec\Exercício 18\obj\Debug\net6.0\refint\Exercício 18.dll
+F:\Atividades Fatec\Exercício 18\obj\Debug\net6.0\Exercício 18.pdb
+F:\Atividades Fatec\Exercício 18\obj\Debug\net6.0\Exercício 18.genruntimeconfig.cache
+F:\Atividades Fatec\Exercício 18\obj\Debug\net6.0\ref\Exercício 18.dll
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 18 (CRUD)\bin\Debug\net6.0\Exercício 18.exe
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 18 (CRUD)\bin\Debug\net6.0\Exercício 18.deps.json
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 18 (CRUD)\bin\Debug\net6.0\Exercício 18.runtimeconfig.json
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 18 (CRUD)\bin\Debug\net6.0\Exercício 18.dll
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 18 (CRUD)\bin\Debug\net6.0\Exercício 18.pdb
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 18 (CRUD)\obj\Debug\net6.0\Exercício 18.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 18 (CRUD)\obj\Debug\net6.0\Exercício 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 18 (CRUD)\obj\Debug\net6.0\Exercício 18.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 18 (CRUD)\obj\Debug\net6.0\Exercício 18.AssemblyInfo.cs
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 18 (CRUD)\obj\Debug\net6.0\Exercício 18.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 18 (CRUD)\obj\Debug\net6.0\Exercício 18.dll
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 18 (CRUD)\obj\Debug\net6.0\refint\Exercício 18.dll
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 18 (CRUD)\obj\Debug\net6.0\Exercício 18.pdb
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 18 (CRUD)\obj\Debug\net6.0\Exercício 18.genruntimeconfig.cache
+C:\Users\Pedro\Documents\Atividades da Fatec\Estrutura de dados\Exercício 18 (CRUD)\obj\Debug\net6.0\ref\Exercício 18.dll
