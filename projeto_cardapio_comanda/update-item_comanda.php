@@ -24,10 +24,20 @@ if (isset($_POST['atualizar']))
                         WHERE idItemComanda={$id_item}";
 
     $result = $conn->query($mysql_query);
+    if ($result === TRUE)
+    {
+        $msg = "update success";
+        $msgerror = "";
+    }
+    else
+    {
+        $msg = "update error";
+        $msgerror = $conn->error;
+    }
 
     mysqli_close($conn);
 
-    header("Location: insert-item_comanda.php?idComanda={$id_comanda}");
+    header("Location: insert-item_comanda.php?idComanda={$id_comanda}&msg={$msg}&msgerror={$msgerror}");
 }
 else
 {
@@ -45,6 +55,7 @@ else
     <h2 class="espaco">Itens da comanda</h2>
     <p>Atualização do cadastro dos itens da comanda.</p>
     <hr>
+    <a href="insert-item_comanda.php?idComanda=<?= $row_placeholder['idComanda']; ?>" type="button" class="btn btn-info d-inline-block" style="margin-bottom: 10px">Voltar</a>
     <div class="wrapper">
         <form method="post">
             <input type="hidden" name="id_comanda" value="<?= $row_placeholder['idComanda']?>">

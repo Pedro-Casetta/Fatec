@@ -10,6 +10,9 @@ if (isset($_GET['idTipoOpcoesCardapio']))
     $quantidade_result = $conn->query($quantidade_query);
     $quantidade_row = $quantidade_result->fetch_assoc();
     $quantidade = $quantidade_row['qtde'];
+    $file_query = "SELECT * FROM tipo_opcoes_cardapio WHERE idTipoOpcoesCardapio = {$id}";
+    $file_result = $conn->query($file_query);
+    $row = mysqli_fetch_array($file_result);
     
     if ($quantidade > 0)
     {
@@ -21,6 +24,8 @@ if (isset($_GET['idTipoOpcoesCardapio']))
     {
         $mysql_query = "DELETE FROM tipo_opcoes_cardapio WHERE idTipoOpcoesCardapio = {$id}";
         $conn->query($mysql_query);
+        $file_path = "image/" . $row['imagem'];
+        unlink($file_path);
         $msg = "delete-tipo_opcao success";
         $msgerror = "";
         mysqli_close($conn);

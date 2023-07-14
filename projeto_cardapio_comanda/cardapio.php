@@ -39,13 +39,14 @@ mysqli_close($conn);
   <br>
   <h2 class="espaco">Gerenciar Cardápio</h2>
   <hr>
+  <a href="dashboard.php" type="button" class="btn btn-info d-inline-block" style="margin-bottom: 10px">Voltar</a>
   <form method="post" class="mb-3">
     <div class="form-group">
       <label for="filtro">Filtrar por tipo:</label>
       <select name="filtro" id="filtro" class="form-select w-25 d-inline-block">
         <option value="0">Todos</option>
         <?php while ($tipo = mysqli_fetch_array($tipos_result)) { ?>
-          <option value="<?php echo $tipo['idTipoOpcoesCardapio']; ?>"><?php echo $tipo['descricao']; ?></option>
+          <option value="<?php echo $tipo['idTipoOpcoesCardapio']; ?>" <?php echo isset($_POST['filtro']) && $_POST['filtro'] == $tipo['idTipoOpcoesCardapio'] ? 'selected' : '' ?>><?php echo $tipo['descricao']; ?></option>
         <?php } ?>
       </select>
       <input type="submit" class="btn btn-secondary ms-2 d-inline-block" value="Filtrar">

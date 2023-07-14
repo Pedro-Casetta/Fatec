@@ -33,11 +33,27 @@ if (isset($_POST['cadastrar']))
     '{$obs}'
     )";
 
-    $insertItensComanda = $conn->query($mysql_query);
+    if ($id_op_cardapio != 0){
+        $insertItensComanda = $conn->query($mysql_query);
+        if ($insertItensComanda === TRUE)
+        {
+            $msg = "insert success";
+            $msgerror = "";
+        }
+        else
+        {
+            $msg = "insert error";
+            $msgerror = $conn->error;
+        }
 
-    header("Location: insert-item_comanda.php?idComanda={$id_comanda}");
-
-    mysqli_close($conn);    	
+        mysqli_close($conn);
+        header("Location: insert-item_comanda.php?idComanda={$id_comanda}&msg={$msg}&msgerror={$msgerror}");
+    }
+    else {
+        $msg = "insert error";
+        $msgerror = "Selecione uma opção do cardápio!";
+        header("Location: insert-item_comanda.php?idComanda={$id_comanda}&msg={$msg}&msgerror={$msgerror}");
+    }
 }
 
 else
@@ -107,7 +123,7 @@ else
     <form method="post">
     <div class="row">
         <div class="col-2">
-            <a href="comanda.php"type="button" class="btn btn-warning d-inline-block">Voltar</a>
+            <a href="comanda.php"type="button" class="btn btn-info d-inline-block">Voltar</a>
         </div>
         <div class="col-2">
             <p><?php echo "Cliente: <b>".$nome."</b>"?></p>
@@ -136,7 +152,7 @@ else
             <div class="row">
                 <div class="col-3">  
                     <select class="form-select" name="op_cardapio" required>
-                    <option selected>Selecione a opção do cardápio...</option>
+                    <option value="0" selected>Selecione a opção do cardápio...</option>
                         <?php while ($row_opcardapio = mysqli_fetch_array($selectOpCardapio, MYSQLI_ASSOC)) { ?>
                         <option value="<?= $row_opcardapio['idOpcaoCardapio'];?>"><?= $row_opcardapio['NomeDesc'];?></option>
                         <?php } ?>
@@ -149,7 +165,7 @@ else
                     <input type="text" name="obs" class="form-control" placeholder="Observações">
                 </div>
                 <div class="col-1">
-                    <input type="submit" name="cadastrar" value="Cadastrar" class="btn btn-primary float-end">
+                    <input type="submit" name="cadastrar" value="Cadastrar" class="btn btn-warning float-end">
                 </div>
             </div>
             <br>

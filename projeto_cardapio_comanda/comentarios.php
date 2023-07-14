@@ -19,6 +19,7 @@ mysqli_close($conn);
   <hr>
   <form method="post" class="mb-3">
   <div class="form-group">
+    <a href="index.php" type="button" class="btn btn-info d-inline-block" style="margin-bottom: 10px">Voltar</a>
     <a href="insert-comentario.php" class="btn btn-warning d-inline-block float-end" style="margin-bottom: 10px;">Incluir novo comentario</a>
   </form>
   <table class="table table-striped table-bordered table-hover">

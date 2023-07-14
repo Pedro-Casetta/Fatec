@@ -43,11 +43,19 @@ session_start();
             dropdownMenu.classList.remove('show'); // Recolhe o menu dropdown
         }
         });
+
+        function loadImage() {
+            event.preventDefault();
+            var imagemURL = document.getElementById('imagemURL').value;
+            var imagemPreview = document.getElementById('imagemPreview');
+            imagemPreview.src = imagemURL;
+        }
+
     </script>
 </head>
 <body>
     <header>
-        <h1>Tech's Restaurante</h1>
+        <h1><a href="index.php" class="link-light">Tech's Restaurante</h1></a>
         <button class="toggle-menu">&#9776;</button>
         <span class="navbar-text d-inline-block float-end">
             <?php if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){ ?>
@@ -55,18 +63,17 @@ session_start();
                 <nav class="menu">
                     <ul>
                         <li><a href="index.php">Home</a></li>
-                        <li><a href="cardapioList.php">Cardápio</a></li>
                         <li><a href="comentarios.php">Reviews</a></li>
                     </ul>
                 </nav>
             <?php } else { ?>
                 <div row>
                 <div class="col-4">
-                    <div class="btn-group">
+                    <div class="dropdown mt-3">
                         <button type="button" class="btn btn-warning dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             <?php echo htmlspecialchars($_SESSION["nomeUsuario"]); ?>
                         </button>
-                        <div class="dropdown-menu dropdown-menu-left">
+                        <div class="dropdown-menu dropdown-menu-start mt-1">
                             <a class="dropdown-item" href="reset-senha.php">Reset senha</a>
                             <a class="dropdown-item" href="logout.php">Sair</a>
                         </div>

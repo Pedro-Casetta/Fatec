@@ -22,6 +22,7 @@ mysqli_close($conn);
   <br>
   <h2 class="espaco">Gerenciar Comentários</h2>
   <hr>
+  <a href="dashboard.php" type="button" class="btn btn-info d-inline-block" style="margin-bottom: 10px">Voltar</a>
   <table class="table table-striped table-bordered table-hover">
     <thead>
       <tr class="table-danger" style="text-align:center">

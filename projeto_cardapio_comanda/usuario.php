@@ -22,14 +22,9 @@ mysqli_close($conn);
   <br>
   <h2 class="espaco">Gerenciar Usuários</h2>
   <hr>
-  <form method="post" class="mb-3">
-    <div class="form-group">
+      <a href="dashboard.php" type="button" class="btn btn-info d-inline-block" style="margin-bottom: 10px">Voltar</a>
       <a href="registro-usuarios.php" class="btn btn-warning d-inline-block float-end">Registrar novo usuário</a>
-    </div>
-    
-  </form>
   
-  <br><br>
   <table class="table table-striped table-bordered table-hover">
     <thead>
       <tr class="table-danger" style="text-align:center">

@@ -26,8 +26,19 @@ if (isset($_POST['cadastrar']))
 
     $insertItensComanda = $conn->query($mysql_query);
 
-    header("Location: comanda.php");
+    if ($insertItensComanda === TRUE)
+    {
+        $msg = "insert success";
+        $msgerror = "";
+    }
+    else
+    {
+        $msg = "insert error";
+        $msgerror = $conn->error;
+    }
+
     mysqli_close($conn);    	
+    header("Location: comanda.php?msg={$msg}&msgerror={$msgerror}");
 }
 else
 {
@@ -51,6 +62,7 @@ else
     <br>
     <h2 class="espaco">Cadastrar nova comanda</h2>
     <hr>
+    <a href="comanda.php" type="button" class="btn btn-info d-inline-block" style="margin-bottom: 10px">Voltar</a>
     <br>
     <div class="wrapper">
         <form method="post">

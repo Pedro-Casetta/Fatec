@@ -116,7 +116,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                         <span><?php echo $senhaUsuario_err; ?></span>
                     </div>
                     <input type="submit" class="btn btn-primary" value="Login">
-                    </div>
                     <br>
                     <p>Não possui uma conta? <a href="registro-usuarios.php" style="color: #74cee9;">Registre-se agora</a>.</p>
                 </form>

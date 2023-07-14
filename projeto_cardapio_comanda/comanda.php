@@ -12,7 +12,7 @@ require_once('connection.php');
 if (isset($_POST['filtro'])) {
   $filtro = $_POST['filtro'];
   if ($filtro != "0") {
-  $mysql_query = "SELECT c.*, sitComanda.descricao situacao, origem.descricaoOrigem origem 
+  $mysql_query = "SELECT c.*, sitComanda.idSituacao idS, sitComanda.descricao situacao, origem.descricaoOrigem origem 
   FROM comanda c, situacao_comanda sitComanda, origem_comanda origem 
   WHERE c.idSituacao = {$filtro} 
   and sitComanda.idSituacao = {$filtro} 
@@ -20,20 +20,24 @@ if (isset($_POST['filtro'])) {
   ORDER BY idComanda";
   }
   else {
-    $mysql_query = "SELECT c.*, sitComanda.descricao situacao, origem.descricaoOrigem origem 
+    $mysql_query = "SELECT c.*, sitComanda.idSituacao idS, sitComanda.descricao situacao, origem.descricaoOrigem origem 
     FROM comanda c, situacao_comanda sitComanda, origem_comanda origem 
     WHERE c.idSituacao = sitComanda.idSituacao and c.idOrigem = origem.idOrigem 
     ORDER BY idComanda";
   }
 
 } else {
-    $mysql_query = "SELECT c.*, sitComanda.descricao situacao, origem.descricaoOrigem origem 
+    $mysql_query = "SELECT c.*, sitComanda.idSituacao idS, sitComanda.descricao situacao, origem.descricaoOrigem origem 
     FROM comanda c, situacao_comanda sitComanda, origem_comanda origem 
     WHERE c.idSituacao = sitComanda.idSituacao and c.idOrigem = origem.idOrigem 
     ORDER BY idComanda";
     }
 
 $result = $conn->query($mysql_query);
+
+$sit_query = "SELECT * FROM situacao_comanda";
+$sit_result = $conn->query($sit_query);
+
 mysqli_close($conn);
 ?> 
 
@@ -44,13 +48,15 @@ mysqli_close($conn);
   <br>
   <h2 class="espaco">Gerenciar Comandas</h2>
   <hr>
+  <a href="dashboard.php" type="button" class="btn btn-info d-inline-block" style="margin-bottom: 10px">Voltar</a>
   <form method="post" class="mb-3">
     <div class="form-group">
       <label for="filtro">Filtrar por situação:</label>
       <select name="filtro" id="filtro" class="form-select w-25 d-inline-block">
         <option value="0">Todas</option>
-        <option value="1">Aberta</option>
-        <option value="2">Fechada</option>
+        <?php while ($row = mysqli_fetch_array($sit_result)) { ?>
+        <option value="<?= $row['idSituacao'];?>" <?php echo isset($_POST['filtro']) && $_POST['filtro'] == $row['idSituacao'] ? 'selected' : '' ?>><?= $row['descricao'];?></option>
+        <?php } ?>
       </select>
       <input type="submit" class="btn btn-secondary ms-0 d-inline-block" style="width: 100px;" value="Filtrar">
       <a href="insert-comanda.php" class="btn btn-warning d-inline-block float-end">Incluir nova Comanda</a>

@@ -13,9 +13,20 @@ if (isset($_POST['cadastrar'])) {
                     )";
 
     $result = $conn->query($mysql_query);
-    mysqli_close($conn);
 
-    header("Location: comentarios.php");
+    if ($result === TRUE)
+        {
+            $msg = "insert success";
+            $msgerror = "";
+        }
+        else
+        {
+            $msg = "insert error";
+            $msgerror = $conn->error;
+        }
+    
+    mysqli_close($conn);
+    header("Location: comentarios.php?msg={$msg}&msgerror={$msgerror}");
     exit();
 }
 ?>

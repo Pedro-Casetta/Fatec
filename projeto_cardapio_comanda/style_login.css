@@ -46,9 +46,9 @@
           }
         @media (min-width: 1200px) {
             .container-sm {
-                height: 50vh;
+                height: 60vh;
                 width: 70vh;
-                margin-top: 20vh;
+                margin-top: 25vh;
                 margin-bottom: 15vh;
             }
           }

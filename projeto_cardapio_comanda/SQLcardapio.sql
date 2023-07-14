@@ -115,20 +115,21 @@ CREATE TABLE `opcoes_cardapio` (
   `nomeOpcaoCardapio` varchar(50) DEFAULT NULL,
   `idTipoOpcoesCardapio` int(11) NOT NULL,
   `descricao` varchar(50) DEFAULT NULL,
-  `preco` double DEFAULT NULL
+  `preco` double DEFAULT NULL,
+  `imagem` varchar(50) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
 -- Extraindo dados da tabela `opcoes_cardapio`
 --
 
-INSERT INTO `opcoes_cardapio` (`idOpcaoCardapio`, `nomeOpcaoCardapio`, `idTipoOpcoesCardapio`, `descricao`, `preco`) VALUES
-(1, 'Coca-Cola', 1, '1 Litro', 9.5),
-(2, 'X-Burguer', 6, 'Pão, Hamburguer, Queijo', 16.8),
-(3, 'X-Salada', 6, 'Pão, Hamburguer, Alface, Tomate', 15.5),
-(4, 'X-Frango', 6, 'Pão, Frango', 17.8),
-(5, 'X-Calabresa', 6, 'Pão, Calabresa, Cebola, Alface', 16.8),
-(6, 'Funada', 1, '2 Litros', 5.5);
+INSERT INTO `opcoes_cardapio` (`idOpcaoCardapio`, `nomeOpcaoCardapio`, `idTipoOpcoesCardapio`, `descricao`, `preco`, `imagem`) VALUES
+(1, 'Coca-Cola', 1, '1 Litro', 9.5, 'coca-cola.webp'),
+(2, 'X-Burguer', 6, 'Pão, Hamburguer, Queijo', 16.8, 'x-burguer.webp'),
+(3, 'X-Salada', 6, 'Pão, Hamburguer, Alface, Tomate', 15.5, 'x-salada.avif'),
+(4, 'X-Frango', 6, 'Pão, Frango', 17.8, 'x-frango.png'),
+(5, 'X-Calabresa', 6, 'Pão, Calabresa, Cebola, Alface', 16.8, 'x-calabresa.jpg'),
+(6, 'Funada', 1, '2 Litros', 5.5, 'funada.jpg');
 
 -- --------------------------------------------------------
 
@@ -183,20 +184,21 @@ INSERT INTO `situacao_comanda` (`idSituacao`, `descricao`) VALUES
 
 CREATE TABLE `tipo_opcoes_cardapio` (
   `idTipoOpcoesCardapio` int(11) NOT NULL,
-  `descricao` varchar(50) DEFAULT NULL
+  `descricao` varchar(50) DEFAULT NULL,
+  `imagem` varchar(50) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
 -- Extraindo dados da tabela `tipo_opcoes_cardapio`
 --
 
-INSERT INTO `tipo_opcoes_cardapio` (`idTipoOpcoesCardapio`, `descricao`) VALUES
-(1, 'Refrigerante'),
-(2, 'Cerveja'),
-(3, 'Chop'),
-(4, 'Suco'),
-(5, 'Sobremesa'),
-(6, 'Lanche');
+INSERT INTO `tipo_opcoes_cardapio` (`idTipoOpcoesCardapio`, `descricao`, `imagem`) VALUES
+(1, 'Refrigerante', 'refrigerante.jpeg'),
+(2, 'Cerveja', 'cerveja.jpg'),
+(3, 'Chopp', 'chop.jpg'),
+(4, 'Suco', 'suco.jpg'),
+(5, 'Sobremesa', '4.jpg'),
+(6, 'Lanche', '2.jpg');
 
 -- --------------------------------------------------------
 
@@ -312,7 +314,7 @@ ALTER TABLE `situacao_comanda`
 -- AUTO_INCREMENT de tabela `tipo_opcoes_cardapio`
 --
 ALTER TABLE `tipo_opcoes_cardapio`
-  MODIFY `idTipoOpcoesCardapio` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
+  MODIFY `idTipoOpcoesCardapio` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
 
 --
 -- AUTO_INCREMENT de tabela `usuarios`

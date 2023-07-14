@@ -81,7 +81,9 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
             // Attempt to execute the prepared statement
             if(mysqli_stmt_execute($stmt)){
                 // Redirect to login page
-                header("location: usuario.php");
+                $msg = "insert success";
+                $msgerror = "";
+                header("location: usuario.php?msg={$msg}&msgerror={$msgerror}");
             } else{
                 echo "Oops! Algo deu errado. Por favor, tente novamente mais tarde.";
             }
